@@ -1,6 +1,6 @@
 body {
 
-  background: url("/assets/background.svg") bottom center;
+  background: url("https://github.com/ZhuJingwen/tissue-paper-box/assets/background.svg") bottom center;
   background-color: #C7DAE0;
   /*background-image: linear-gradient(to right top, #ABD0E0 50%, #C7DAE0 50%);*/
   min-height: 800px;
